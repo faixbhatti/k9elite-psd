@@ -1,0 +1,26 @@
+body div.wpcf7-response-output {
+	margin:0;
+	padding:0;
+	border:0;
+}
+.wpcf7-form-control-wrap {
+	display:block;
+	margin-bottom:25px;
+}
+.wpcf7 span label {
+	display:inline-block;
+}
+.wpcf7 .wpcf7-captchac {
+	width:auto;
+}
+
+.wpcf7 .wpcf7-checkbox,
+.wpcf7 .wpcf7-radio {
+	border:0;
+	padding:0;
+}
+.wpcf7 .wpcf7-acceptance {
+	display:inline-block;
+	height:auto;
+	width:auto;
+}
